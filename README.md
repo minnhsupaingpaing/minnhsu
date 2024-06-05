@@ -51,5 +51,6 @@
 </td></tr></table>  
 
 <br />
-<br />
+
+![Snake animation](https://github.com/minnhsupaingpaing/minnhsupaingpaing/blob/output/github-contribution-grid-snake.svg)
 
